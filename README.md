@@ -2,9 +2,7 @@
 
 This repository contains my **first remote internship project** at **DevelopersHub Corporation**, where I applied my skills in **Data Science & Analytics** over a 6-week period. The project focused on **loan data analysis**, visualization, and predictive modeling to understand borrower behavior and loan repayment patterns.
 
----
-
-## 📌 Project Overview
+##  internship Overview
 
 During this internship, I worked with a dataset containing information about borrowers, loans, income, credit score, and repayment status. The main objectives of the project were:
 
@@ -13,9 +11,7 @@ During this internship, I worked with a dataset containing information about bor
 3. **Predictive Modeling:** Train machine learning models to predict whether a borrower will pay back the loan.  
 4. **Insights & Visualization:** Highlight key trends, such as the relationship between **interest rates** and **installment amounts**.
 
----
-
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python** – Programming language for analysis and modeling  
 - **pandas** – Data manipulation and cleaning  
@@ -23,9 +19,7 @@ During this internship, I worked with a dataset containing information about bor
 - **seaborn & matplotlib** – Data visualization  
 - **scikit-learn** – Machine learning models (Logistic Regression, Random Forest)  
 
----
-
-## 📊 Key Features Implemented
+## Key Features Implemented
 
 - **Data Analysis:** Statistical measures like min, max, mean, and correlation  
 - **Visualizations:** Scatter plots, box plots, histograms, regression lines, and heatmaps  
